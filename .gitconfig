@@ -1,0 +1,9 @@
+[safe]
+	directory = /controller
+	directory = /home/zayshaa/tms_testing/controller/controller/
+	directory = /home/zayshaa/tms_testing/controller/controller
+[user]
+	email = cara.di42@gmail.com
+	name = zayshaa
+[credential]
+	helper = "!f() { /controller/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/node /tmp/vscode-remote-containers-02d92f37425260805f7a690ebb929986b0764430.js git-credential-helper $*; }; f"
